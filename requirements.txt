@@ -2,6 +2,7 @@ streamlit
 torch
 torchvision
 ultralytics
+opencv-python-headless
 chromadb
 timm
 groq
