@@ -64,7 +64,7 @@ st.markdown("""
 DRIVE_FILES = {
     'fyp/runs/fashionpedia_yolo26s/weights/best.pt': '16TxxwOUcT6sN0yMaC59MSD2-qghXS3WO',
     'fyp/attribute_classifier/best_model.pt'        : '17UPUnoEFBc_HWslmK0w0CN9HJP0Uftgu',
-    'fyp/attribute_classifier/attribute_map.json'   : 'https://drive.google.com/file/d/1JJeqKuuxQZhn5htjRXnUnWTI3h6rsKwR/view?usp=drive_link',  # ← fix this
+    'fyp/attribute_classifier/attribute_map.json'   : 'https://drive.google.com/file/d/1JJeqKuuxQZhn5htjRXnUnWTI3h6rsKwR/view?usp=sharing',  # ← fix this
     'fyp/clean/instances_train2020_clean.json'      : '1fwr9wmodQqI66SmtvkiiGpFweEe1zHHR',
 }
 
