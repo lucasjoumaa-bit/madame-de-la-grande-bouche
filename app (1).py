@@ -2,12 +2,7 @@
 Madame de la Grande Bouche — Streamlit App
 Deploy on Streamlit Cloud: share.streamlit.io
 """
-import subprocess
-import sys
 
-# Force headless OpenCV before ultralytics loads
-subprocess.run([sys.executable, '-m', 'pip', 'uninstall', '-y', 'opencv-python', 'opencv-python-headless'], capture_output=True)
-subprocess.run([sys.executable, '-m', 'pip', 'install', 'opencv-python-headless==4.8.1.78'], capture_output=True)
 import os, io, json, uuid, base64, datetime, requests
 import numpy as np
 import torch
