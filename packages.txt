@@ -3,4 +3,4 @@ libgl1
 libsm6
 libxext6
 libglib2.0-0
-cv2
+libgthread-2.0
